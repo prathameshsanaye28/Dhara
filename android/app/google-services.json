@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "72043962266",
+    "project_id": "roomie-radar",
+    "storage_bucket": "roomie-radar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72043962266:android:80f5be91a65f82f146a423",
+        "android_client_info": {
+          "package_name": "com.example.dhara_sih"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72043962266-gps4dvdgfqk6mshhesmkj5q7asqsgd3l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSLtCN3f4wFRTBZMLCuU2XXPA69FG3eTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72043962266-gps4dvdgfqk6mshhesmkj5q7asqsgd3l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "72043962266-b0q8qjr0trj7h9cqs7c8ah7echvaglbv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.roomieRadar"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72043962266:android:7b18c9c43ec9929646a423",
+        "android_client_info": {
+          "package_name": "com.example.roomie_radar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72043962266-4dc643d9ijbambkq4sn9428i98jf3k98.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.roomie_radar",
+            "certificate_hash": "ac316132c05ebd9bffd2511d8b076bad7c6d0901"
+          }
+        },
+        {
+          "client_id": "72043962266-gps4dvdgfqk6mshhesmkj5q7asqsgd3l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSLtCN3f4wFRTBZMLCuU2XXPA69FG3eTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72043962266-gps4dvdgfqk6mshhesmkj5q7asqsgd3l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "72043962266-b0q8qjr0trj7h9cqs7c8ah7echvaglbv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.roomieRadar"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
