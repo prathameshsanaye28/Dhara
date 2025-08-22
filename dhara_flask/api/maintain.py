@@ -7,7 +7,7 @@ from datetime import datetime
 maintain_blueprint = Blueprint('maintain', __name__)
 
 # Configure Gemini API 
-genai.configure(api_key="AIzaSyAB2n8jngooeHFtd6y_0X8YofACpNZLcao")
+genai.configure(api_key="your_api_key")
 
 # Comprehensive Safety Prompt Template
 SAFETY_PROMPT_TEMPLATE = """
